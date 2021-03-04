@@ -1,16 +1,64 @@
-### Hi there 👋
+# Austin Garcia
 
-<!--
-**Augustin007/Augustin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16 year old programmer and mathematician.
 
-Here are some ideas to get you started:
+I know MWEX, Python, C, and C++, but I mostly just use python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programing
+
+My current project 'usefulpy' a program that is essentially a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
+
+I am debating including compiled C++ programs to improve speed, but I've never used python and C++ together, so that's what I am learning how to do.
+
+## Other than programming
+
+First and foremost am a Catholic! 
+
+I listen to [relevant radio](https://relevantradio.com/)
+
+I love reading, writing, and mathematics.
+
+I play piano, saxophone, and guitar. 
+
+I love theatre (The last time I was in a play I was Lumiere in Beauty and the Beast, this is absolutely my favourite play). 
+
+I do gymnastics and martial arts.
+
+### Book recomendations
+
+I mentioned I love reading!
+
+I love reading!
+
+Alot!
+
+So a few book recommendations:
+
+Anything by Tolkein (Tolkein is my favorite)
+
+Anything by C.S. Lewis
+
+The Count of Monte Cristo (Alexandre Dumas)
+
+The Complete Sherlock Holmes (Author Conlan Doyle)
+
+The Shadow Children (Margaret Peterson Haddix) (This is an easy but excellent read)
+
+## Mathematics
+
+My favorite number is 6.928203230275509174109536602... 
+
+Quaternions
+
+Imaginary numbers is a misnomer— they are real too
+
+Linear Algebra and Calculus!
+
+A couple of my desmos stuff, arranged by complexity:
+
+[A Desmos animation of the Unit Circle](https://www.desmos.com/calculator/1i2mrwbo0g)
+
+[A neat Desmos example of basic Linear Algebra](https://www.desmos.com/calculator/kufgmk6rcp)
+
+[A neat Desmos example of 3d projection](https://www.desmos.com/calculator/kwds1oqnx3)

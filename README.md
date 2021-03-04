@@ -2,7 +2,7 @@
 
 I am a 16 year old programmer and mathematician.
 
-## Programing
+## Programming
 
 I know MWEX, Python, C, and C++, but I mostly just use python.
 

@@ -60,7 +60,7 @@ Linear Algebra and Calculus!
 
 A couple of my desmos stuff, arranged by complexity:
 
-[A Desmos animation of the Unit Circle](https://www.desmos.com/calculator/noq3m7tdw1)
+[A Desmos animation of the Unit Circle](https://www.desmos.com/calculator/lzorsicscy)
 
 [A neat Desmos example of basic Linear Algebra](https://www.desmos.com/calculator/kufgmk6rcp)
 

@@ -50,6 +50,8 @@ The Shadow Children (Margaret Peterson Haddix) (This is an easy but excellent re
 
 My favorite number is 6.928203230275509174109536602... 
 
+Tau is the True Circle Constant
+
 Quaternions
 
 Imaginary numbers is a misnomer— they are real too

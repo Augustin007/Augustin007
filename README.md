@@ -6,7 +6,7 @@ I am a 16 year old programmer and mathematician.
 
 I know MWEX, Python, C, and C++, but I mostly just use python.
 
-My current project 'usefulpy' a program that is essentially a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
+My current project '[usefulpy](https://github.com/Augustin007/usefulpy)' a program that is essentially a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
 
 I use Visual Studio Code and Ipython for programming.
 

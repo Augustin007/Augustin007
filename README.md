@@ -60,8 +60,10 @@ Linear Algebra and Calculus!
 
 A couple of my desmos stuff, arranged by complexity:
 
-[A Desmos animation of the Unit Circle](https://www.desmos.com/calculator/lzorsicscy)
+[Desmos animation of the Unit Circle](https://www.desmos.com/calculator/lzorsicscy)
 
-[A neat Desmos example of basic Linear Algebra](https://www.desmos.com/calculator/0qj4jdzyxh)
+[Desmos Linear Algebra Setup](https://www.desmos.com/calculator/0qj4jdzyxh)
 
-[A neat Desmos example of 3d projection](https://www.desmos.com/calculator/kwds1oqnx3)
+[Desmos Parametric Axis-Bending Setup](https://www.desmos.com/calculator/liadngzpyd)
+
+[Desmos example of 3d projection](https://www.desmos.com/calculator/kwds1oqnx3)

@@ -1,6 +1,6 @@
 # Austin Garcia
 
-I am a 16 year old programmer and mathematician.
+I am a 17 year old programmer and mathematician.
 
 ## Programming
 
@@ -62,7 +62,11 @@ Linear Algebra and Calculus!
 A couple of my desmos stuff:
 
 [Desmos animation of the Unit Circle](https://www.desmos.com/calculator/lzorsicscy)
+
 [Desmos Matrices Setup](https://www.desmos.com/calculator/0qj4jdzyxh)
+
 [Desmos Parametric Axis-Bending Setup](https://www.desmos.com/calculator/liadngzpyd)
+
 [Desmos Fourier Series setup](https://www.desmos.com/calculator/i35womijug)
+
 [Desmos example of 3d projection](https://www.desmos.com/calculator/kwds1oqnx3)

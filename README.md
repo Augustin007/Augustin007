@@ -65,7 +65,7 @@ A couple of my desmos stuff:
 
 [Desmos Matrices Setup](https://www.desmos.com/calculator/0qj4jdzyxh)
 
-[Desmos Parametric Axis-Bending Setup](https://www.desmos.com/calculator/liadngzpyd)
+[Desmos Parametric Axis-Bending Setup](https://www.desmos.com/calculator/v6m8whr37n)
 
 [Desmos Fourier Series Setup](https://www.desmos.com/calculator/i35womijug)
 

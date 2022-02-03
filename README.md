@@ -24,6 +24,8 @@ I play piano, saxophone, and guitar.
 
 I love theatre (The last time I was in a play I was Lumiere in Beauty and the Beast, this is absolutely my favourite play). 
 
+My non-programming languages are Spanish, English, and French.
+
 I do gymnastics and martial arts.
 
 ### Book recomendations

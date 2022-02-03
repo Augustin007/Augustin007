@@ -73,4 +73,4 @@ A couple of my desmos stuff:
 
 [Desms Vector Field Setup](https://www.desmos.com/calculator/rn0pbopu3q)
 
-[Desmos example of 3d projection](https://www.desmos.com/calculator/kwds1oqnx3)
+[Desmos example of 3d projection](https://www.desmos.com/calculator/dfw6mshjjj)

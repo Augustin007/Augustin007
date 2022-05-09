@@ -4,7 +4,7 @@ I am a 17 year old programmer and mathematician.
 
 I am currently studying for a degree in Electrical Engineering and Mathematics at UCSD
 
-I work as a gymnastics and parkour coach for all pre-competitive levels.
+I work as a gymnastics and parkour coach for all pre-competitive and non-competitive levels.
 
 ## Programming
 

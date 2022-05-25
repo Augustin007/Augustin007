@@ -8,7 +8,7 @@ I work as a gymnastics and parkour coach for all pre-competitive and non-competi
 
 ## Programming
 
-I know MWEX, Python, C, and C++, but I mostly just use python.
+I know Python and C++, I also know a little bit of both C and Java, and I used to know MWEX, though I haven't touched it in around a decade. I mostly just use python.
 
 My current project '[usefulpy](https://github.com/Augustin007/usefulpy)' a program that is essentially a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
 

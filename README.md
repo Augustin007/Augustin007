@@ -2,7 +2,7 @@
 
 I am a 17 year old programmer and mathematician.
 
-I graduated Valedictorian from high school (Valedictorian!) this year and will be studying for a degree in Electrical Engineering and Mathematics at UCSD this fall.
+I graduated from high school this year (Valedictorian! I got to give a speech, it was fun! I wish I knew how I'd managed it though.) and will be studying for a degree in Electrical Engineering at UCSD this fall.
 
 I work as a gymnastics and parkour coach for all pre-competitive and non-competitive levels.
 

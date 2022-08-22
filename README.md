@@ -75,6 +75,6 @@ A couple of my desmos stuff:
 
 [Desmos Fourier Series Setup](https://www.desmos.com/calculator/i35womijug)
 
-[Desms Vector Field Setup](https://www.desmos.com/calculator/rn0pbopu3q)
+[Desms Vector Field Setup](https://www.desmos.com/calculator/rwfthstuvu)
 
 [Desmos example of 3d projection](https://www.desmos.com/calculator/dfw6mshjjj)

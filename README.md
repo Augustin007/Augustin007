@@ -1,10 +1,8 @@
 # Austin Garcia
 
-I am a 17 year old programmer and mathematician.
+I am a 18 year old programmer and mathematician.
 
-I graduated from high school this year (Valedictorian! I got to give a speech, it was fun! I wish I knew how I'd managed it though.) and will be studying for a degree in Electrical Engineering at UCSD this fall.
-
-I work as a gymnastics and parkour coach for all pre-competitive and non-competitive levels.
+I am studying for a degree in Electrical Engineering at UCSD this fall.
 
 ## Programming
 

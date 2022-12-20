@@ -2,7 +2,7 @@
 
 I am a 18 year old programmer and mathematician.
 
-I am studying for a degree in Electrical Engineering at UCSD this fall.
+I am studying for a degree in Electrical Engineering at UCSD.
 
 ## Programming
 

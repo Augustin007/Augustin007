@@ -6,13 +6,15 @@ I am studying for a degree in Electrical Engineering at UCSD.
 
 ## Programming
 
-I know Python and C++, I also know a little bit of both C and Java, and I used to know MWEX, though I haven't touched it in around a decade. I mostly just use python.
+I know Python and C, I also know a little bit of both C++ and Java, and I used to know MWEX, though I haven't touched it in around a decade. I mostly just use python.
 
-My current project '[usefulpy](https://github.com/Augustin007/usefulpy)' a program that is essentially a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
+My current project [usefulpy](https://github.com/Augustin007/usefulpy) is a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
 
-I use Visual Studio Code and Ipython for programming.
+I am separating the usefulpy.mathematics section into its own usefulpy-math library, an enormous work in progress. I don't usually push very often, I prefer to finish up a change and iron out the bugs, (which will persist no matter what). As it is a new project, it is mostly just scaffolding code, a lot of empty files, trying to realize the tangle of mathematics, flowcharts, and pseudocode filling up one of my notebooks. More commits for a while as I sort this out.
 
-I am debating including compiled C++ programs to improve speed, but I've never used python and C++ together, so that's what I am learning how to do.
+I use Vim, Visual Studio Code, and Ipython for programming.
+
+I am debating including compiled C programs to improve speed, but I've only used python and C together a few times before, so I've still got a lot to learn. Last week (as of writing this message, 12/19/2022), I spent five hours pondering over what turned out to be the result of a misplaced comma, trying to build a basic c library for python.
 
 ## Other than programming
 

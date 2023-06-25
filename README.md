@@ -20,6 +20,8 @@ I use neovim as my editor.
 
 I don't tend to write graphics stuff. I find it difficult.
 
+Most of my projects aren't pushed. I occasionally forget I have projects on GitHub for long stretches of time.
+
 ## Other than programming
 
 First and foremost am a Catholic! 

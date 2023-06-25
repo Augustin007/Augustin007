@@ -2,19 +2,23 @@
 
 I am a 18 year old programmer and mathematician.
 
-I am studying for a degree in Electrical Engineering at UCSD.
+I am double majoring in Electrical Engineering and Mathematics at UCSD.
 
 ## Programming
 
-I know Python and C, I also know a little bit of both C++ and Java, and I used to know MWEX, though I haven't touched it in around a decade. I mostly just use python.
+I use Python and C, primarily. 
 
-My current project [usefulpy](https://github.com/Augustin007/usefulpy) is a large library of functions that improve the quality of python programming. One catch, it can't use any sort of third party libraries... so no numpy, scipy, manim, or any others... 
+I'm partially versed in a few dozen other languages that I've touched for two or three projects and not really used again.
 
-I am separating the usefulpy.mathematics section into its own usefulpy-math library, an enormous work in progress. I don't usually push very often, I prefer to finish up a change and iron out the bugs, (which will persist no matter what). As it is a new project, it is mostly just scaffolding code, a lot of empty files, trying to realize the tangle of mathematics, flowcharts, and pseudocode filling up one of my notebooks. More commits for a while as I sort this out.
+I'm currently part of the SCC23 travel team for UCSD.
 
-I use Vim, Visual Studio Code, and Ipython for programming.
+Lisp, Rust, and Haskell are three languages I've been using more lately, but not for any project I've pushed. I'm really enjoying all three of them.
 
-I am debating including compiled C programs to improve speed, but I've only used python and C together a few times before, so I've still got a lot to learn. Last week (as of writing this message, 12/19/2022), I spent five hours pondering over what turned out to be the result of a misplaced comma, trying to build a basic c library for python.
+I run Fedora Workstation-38 and use Qtile as my window manager. (I'm very bog-standard about my OS, I'm afraid)
+
+I use neovim as my editor. 
+
+I don't tend to write graphics stuff. I find it difficult.
 
 ## Other than programming
 
@@ -24,13 +28,17 @@ I listen to [relevant radio](https://relevantradio.com/)
 
 I love reading, writing, and mathematics.
 
-I play piano, saxophone, and guitar. 
+I play piano, saxophone, harmonica, and guitar. 
+
+I've obtained a violin. I need to actually learn how to play it.
 
 I love theatre (The last time I was in a play I was Lumiere in Beauty and the Beast, this is absolutely my favourite play). 
 
 My non-programming languages are Spanish, English, and French.
 
 I do gymnastics and martial arts.
+
+I'm not good at chess, but I enjoy it a lot. 
 
 ### Book recomendations
 
@@ -54,27 +62,37 @@ The Shadow Children (Margaret Peterson Haddix) (This is an easy but excellent re
 
 ## Mathematics
 
-My favorite number is 6.928203230275509174109536602... 
-
 Tau is the True Circle Constant
 
-Quaternions
+I prefer Quaternions over Euler Angles
 
 Imaginary numbers is a misnomer— they are real too
 
-Linear Algebra and Calculus!
+Anyone who knows me knows I somehow manage to make everything into a set theory problem. I don't even like set theory that much anymore.
+
+Lambda Calculus is cool!
+
+[Type Theory](https://hott.github.io/book/hott-online-1404-g79e6d60.pdf) is where it's at.
 
 
-A couple of my desmos stuff:
+## Desmos
 
-[Desmos Animation of the Unit Circle](https://www.desmos.com/calculator/lzorsicscy)
+I have over 400 desmos graphs saved. Here are a few interesting ones:
 
-[Desmos Matrices Setup](https://www.desmos.com/calculator/0qj4jdzyxh)
+[Animation of the Unit Circle](https://www.desmos.com/calculator/lzorsicscy)
 
-[Desmos Parametric Axis-Bending Setup](https://www.desmos.com/calculator/v6m8whr37n)
+[Matrices Setup (2d)](https://www.desmos.com/calculator/0qj4jdzyxh)
 
-[Desmos Fourier Series Setup](https://www.desmos.com/calculator/i35womijug)
+[Matrices Setup (3d)](https://www.desmos.com/calculator/ydnve1a4wd)
 
-[Desms Vector Field Setup](https://www.desmos.com/calculator/rwfthstuvu)
+[Parametric Axis-Bending Setup](https://www.desmos.com/calculator/v6m8whr37n)
 
-[Desmos example of 3d projection](https://www.desmos.com/calculator/dfw6mshjjj)
+[Fourier Series Setup](https://www.desmos.com/calculator/i35womijug)
+
+[Vector Field Setup](https://www.desmos.com/calculator/rwfthstuvu)
+
+[4d K-map](https://www.desmos.com/calculator/yg1ddxdrdb)
+
+I have a mock-up physics simulation, but it's not quite done. Coming soon! Honestly, I don't know why I always end up doing this kind of stuff in desmos. 
+
+(Probably because its the only graphics system I really understand. I should devote some time to learning... something else? I already do animations in manim, I should just get good at manim.)

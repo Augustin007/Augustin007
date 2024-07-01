@@ -68,13 +68,11 @@ I prefer Quaternions over Euler Angles.
 
 Imaginary numbers is a misnomer— they are real too.
 
-Anyone who knows me knows I somehow manage to make everything into a set theory problem. I don't even like set theory that much anymore.
+[Type Theory](https://hott.github.io/book/hott-online-1404-g79e6d60.pdf) is where it's at.
 
 Lambda Calculus is cool!
 
-[Type Theory](https://hott.github.io/book/hott-online-1404-g79e6d60.pdf) is where it's at.
-
-Currently reading up on automated theorem proving.
+Currently reading up on automated theorem proving and theorem checking.
 
 ## Desmos
 

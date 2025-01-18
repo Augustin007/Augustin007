@@ -1,6 +1,6 @@
 # Austin Garcia
 
-I am a 19 year old programmer and mathematician.
+I am a 20 year old programmer and mathematician.
 
 I am double majoring in Electrical Engineering and Mathematics at UCSD.
 
